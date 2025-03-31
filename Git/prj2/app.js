@@ -1,1 +1,1 @@
-//new features added
+//new feature added
